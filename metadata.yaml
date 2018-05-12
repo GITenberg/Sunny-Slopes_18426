@@ -1,0 +1,33 @@
+_repo: Sunny-Slopes_18426
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Brown, Arthur William
+    birthdate: 1881
+    deathdate: 1966
+    gutenberg_agent_id: '6352'
+    url: http://www.gutenberg.org/2009/agents/6352
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Hueston, Ethel
+    birthdate: 1887
+    gutenberg_agent_id: '8013'
+    url: http://www.gutenberg.org/2009/agents/8013
+description: Cover -- Contents.
+gutenberg_issued: '2006-05-20'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '18426'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'Sisters -- Fiction'
+- !lcsh 'Love stories'
+title: Sunny Slopes
+url: http://www.gutenberg.org/ebooks/18426
