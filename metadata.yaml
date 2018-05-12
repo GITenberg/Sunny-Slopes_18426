@@ -17,6 +17,8 @@ creator:
     gutenberg_agent_id: '8013'
     url: http://www.gutenberg.org/2009/agents/8013
 description: Cover -- Contents.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/18426#Sunny-Slopes
 gutenberg_issued: '2006-05-20'
 gutenberg_type: Text
 identifiers:
